@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimani-mbuguah/Restaurant-Reviews.git"
+  },
+  "author": "Kimani Mbuguah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimani-mbuguah/Restaurant-Reviews/issues"
+  },
+  "homepage": "https://github.com/kimani-mbuguah/Restaurant-Reviews#readme"
+}
